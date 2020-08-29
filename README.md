@@ -1,0 +1,1 @@
+# OpenCore-Hasee-K670-K680-K610-i5-9400-W650kj1-
