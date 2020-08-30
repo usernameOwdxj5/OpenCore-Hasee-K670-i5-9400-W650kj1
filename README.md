@@ -27,3 +27,4 @@ CPU：英特尔 i5-9400
 
 0.5.8版本从https://github.com/cc336625/Hasee-k670d_Hackintosh 修改而来。
 更新OpenCore到0.6.0
+
