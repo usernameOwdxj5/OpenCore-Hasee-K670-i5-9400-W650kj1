@@ -8,7 +8,7 @@
 
 理论上也适用于K670、K680、K610等9代CPU机型。无视BOIS开启CFG锁。
 
-OpenCore更新到0.6.0
+
 
 什么正常：亮度、显卡、网卡、声卡、CPU睿频。
 什么不正常：休眠。
@@ -25,3 +25,4 @@ OpenCore更新到0.6.0
 
 
 0.5.8版本从https://github.com/cc336625/Hasee-k670d_Hackintosh 修改而来。
+更新OpenCore到0.6.0
