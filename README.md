@@ -8,7 +8,7 @@ CPU：英特尔 i5-9400
 无需BOIS解锁CFG。
 
 
-亮度、显卡、网卡、声卡、CPU睿频等一切正常。
+亮度、显卡、英特尔网卡、声卡、CPU睿频等一切正常。
 
 
 
@@ -17,7 +17,7 @@ CPU：英特尔 i5-9400
 
 
 更新OpenCore到0.6.1，支持macOS 11
-
+![Image text](https://github.com/IvanJIang01/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/QQ%E5%9B%BE%E7%89%8720200908230237.jpg)
 ![Image text](https://github.com/IvanJIang01/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/QQ%E5%9B%BE%E7%89%8720200908230323.jpg)
 
 
