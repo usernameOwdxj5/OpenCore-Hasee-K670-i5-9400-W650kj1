@@ -18,5 +18,6 @@ CPU：英特尔 i5-9400
 
 更新OpenCore到0.6.1，支持macOS 11
 
+![Image text](https://github.com/IvanJIang01/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/QQ%E5%9B%BE%E7%89%8720200908230323.jpg)
 
 
