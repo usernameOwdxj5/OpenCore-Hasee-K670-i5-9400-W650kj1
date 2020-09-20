@@ -30,5 +30,6 @@ CPU：英特尔 i5-9400
 ![Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/QQ20200919-201940%402x.png)
 ![Image text](https://github.com/IvanJIang01/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E5%9B%BE%E7%89%876.jpg)
 
-
+远景地址
+http://bbs.pcbeta.com/viewthread-1870461-1-1.html
 
