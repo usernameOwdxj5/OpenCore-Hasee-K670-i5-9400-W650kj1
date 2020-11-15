@@ -28,7 +28,9 @@ CPU：英特尔 Core i5-9400 @ 2.90GHz 六核
 
 更新OpenCore到0.6.3，支持macOS BigSur。
 
-远景地址
+下载地址：点击右侧realese链接
+
+远景论坛地址
 http://bbs.pcbeta.com/viewthread-1870461-1-1.html
 
 
