@@ -40,5 +40,9 @@ CPU：英特尔 Core i5-9400 @ 2.90GHz 六核
 
 远景地址
 http://bbs.pcbeta.com/viewthread-1870461-1-1.html
+
+
 已屏蔽独立显卡
+
+
 已修复睡眠
