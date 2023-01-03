@@ -46,7 +46,7 @@ CPU：英特尔 Core i5-9400 @ 2.90GHz 六核
 
 【其它】
 
-1.更新OpenCore到0.8.8，支持macOS Ventura。
+1.更新OpenCore到0.8.8，支持macOS Ventura 13.1。
 
 2.下载地址：点击本界面右侧栏“Releases”链接
 
