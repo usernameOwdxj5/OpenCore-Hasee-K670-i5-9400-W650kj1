@@ -55,7 +55,8 @@ CPU：英特尔 Core i5-9400 @ 2.90GHz 六核
 【运行截图】
 
 图片-运行界面
-![Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E6%88%AA%E5%9B%BE20221231-233723.png)
+[Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E6%88%AA%E5%9B%BE20231023-193425.png)
+[Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E6%88%AA%E5%9B%BE20221231-233723.png)
 图片-安装Ventura后驱动运行情况
 ![Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E6%88%AA%E5%9B%BE20221231-233823.png)
 ![Image text](https://github.com/usernameOwdxj5/OpenCore-Hasee-K670-i5-9400-W650kj1/blob/master/%E6%88%AA%E5%9B%BE20221231-233921.png)
