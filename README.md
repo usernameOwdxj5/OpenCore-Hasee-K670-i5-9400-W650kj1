@@ -40,13 +40,13 @@ CPU：英特尔 Core i5-9400 @ 2.90GHz 六核
 
 3.默认开启OpenCore的efi工具和-v模式，供萌新转机，如有需要请自行关闭。现已22秒开机。
 
-4.Opencore 0.8.7只支持安装苹果系统版本：MacOs Sonoma 14.0，如有其他系统版本需要请右侧下载历史版本OpenCore。
+4.Opencore 0.8.5只支持安装苹果系统版本：MacOs Sonoma 14.0，如有其他系统版本需要请右侧下载历史版本OpenCore。
 
 5.如有安装错误，或者美化引导界面，欢迎加入QQ群交流：185176785
 
 【其它】
 
-1.更新OpenCore到0.8.8，支持macOS Ventura 13.1。
+1.更新OpenCore到0.9.5，支持mMacOs Sonoma 14.0。
 
 2.下载地址：点击本界面右侧栏“Releases”链接
 
